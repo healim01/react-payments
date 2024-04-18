@@ -1,0 +1,1 @@
+import{j as n}from"./jsx-runtime-BnIj46N_.js";import{useMDXComponents as r}from"./index-DLsXyOuj.js";import"./index-CsdIBAqE.js";function e(t){return n.jsx("h1",{children:"안녕하세요 블링?"})}function u(t={}){const{wrapper:o}={...r(),...t.components};return o?n.jsx(o,{...t,children:n.jsx(e,{...t})}):e()}export{u as default};
