@@ -1,1 +1,0 @@
-import{j as o}from"./jsx-runtime-BnIj46N_.js";import{useMDXComponents as r}from"./index-DLsXyOuj.js";import"./index-CsdIBAqE.js";function e(n){const t={p:"p",...r(),...n.components};return o.jsx(t.p,{children:"스토리북"})}function i(n={}){const{wrapper:t}={...r(),...n.components};return t?o.jsx(t,{...n,children:o.jsx(e,{...n})}):e(n)}export{i as default};
